@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+label {
+  margin: 10px;
+  font-weight: 700;
+}
+
+input {
+  background-color: #ddd;
+}
+
+.submitButton {
+  padding: 8px;
+  font-weight: 700;
+}
